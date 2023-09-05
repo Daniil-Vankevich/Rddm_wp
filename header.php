@@ -4,9 +4,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Школа 38 в движении первых</title>
+	<title>
+		Школа 38 в движении первых
+	</title>
 
-	<link rel="stylesheet" href="./style.css">
+	<!-- <link rel="stylesheet" href="./style.css"> -->
 
 	<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -53,10 +55,10 @@
 									<li class="menu__item-subMenu"><a class="menu__link-sub" href="./mission.html">Миссия и ценности</a></li>
 								</ul>
 							</li>
-							<li class="menu__item"><a class="menu__link" href="./pages/direction-page.html">Направления</a></li>
-							<li class="menu__item"><a class="menu__link" href="./pages/news-page.html">Новости</a></li>
-							<li class="menu__item"><a class="menu__link" href="./pages/galary.html">Галерея</a></li>
-							<li class="menu__item"><a class="menu__link" href="./pages/projects-active.html">Проектные активности</a></li>
+							<li class="menu__item"><a class="menu__link" href="./template/direction-page.html">Направления</a></li>
+							<li class="menu__item"><a class="menu__link" href="./template/news-page.html">Новости</a></li>
+							<li class="menu__item"><a class="menu__link" href="./template/galary.html">Галерея</a></li>
+							<li class="menu__item"><a class="menu__link" href="./template/projects-active.html">Проектные активности</a></li>
 						</ul>
 					</nav>
 					<div class="menu__btn">

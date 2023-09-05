@@ -17,6 +17,7 @@ function true_include_myscript()
 
 
 // .................................................................
+
 add_action('after_setup_theme', 'add_logo');
 
 // подключение логотипа
@@ -31,4 +32,16 @@ function add_logo()
 		'header-text' => '',
 	]);
 	add_image_size('img_thumbnail', 48, 48, true);
+}
+
+
+
+// Добавление меню в админку сайта
+
+add_action('after_setup_theme', 'add_menu');
+
+function add_menu()
+{
+	register_nav_menu('top', 'Главное меню сайта');
+	register_nav_menu('bottom', 'Нижнее меню сайта');
 }

@@ -4,11 +4,11 @@ Theme Name: School38Rddm
 
 /* подключение шрифта монтсеррат */
 
-
+/* 
 @font-face {
 	font-family: 'Montserrat';
 	
-	src: url('fonts/Montserrat-Regular.ttf') format('truetype');
+	src: url('assets/fonts/Montserrat-Regular.ttf') format('truetype');
 	
 	font-weight: normal;
 	
@@ -21,7 +21,7 @@ Theme Name: School38Rddm
 	
 	font-family: 'Montserrat';
 	
-	src: url('fonts/Montserrat-Bold.ttf') format('truetype');
+	src: url('assets/fonts/Montserrat-Bold.ttf') format('truetype');
 	
 	font-weight: bold;
 	
@@ -33,7 +33,7 @@ Theme Name: School38Rddm
 	
 	font-family: 'Montserrat';
 	
-	src: url('fonts/Montserrat-Italic.ttf') format('truetype');
+	src: url('assets/fonts/Montserrat-Italic.ttf') format('truetype');
 	
 	font-weight: normal;
 	
@@ -45,7 +45,7 @@ Theme Name: School38Rddm
 	
 	font-family: 'Montserrat';
 
-	src: url('fonts/Montserrat-BoldItalic.ttf') format('truetype');
+	src: url('assets/fonts/Montserrat-BoldItalic.ttf') format('truetype');
 	
 	font-weight: bold;	
 	
@@ -55,7 +55,7 @@ Theme Name: School38Rddm
 	@font-face {
 		font-family: 'Montserrat';
 		
-		src: url('fonts/Montserrat-ExtraBold.ttf') format('truetype');
+		src: url('assets/fonts/Montserrat-ExtraBold.ttf') format('truetype');
 		
 		font-weight: 800;
 		
@@ -66,7 +66,7 @@ Theme Name: School38Rddm
 		@font-face {
 			font-family: 'Montserrat';
 			
-			src: url('fonts/Montserrat-ExtraBold.ttf') format('truetype');
+			src: url('assets/fonts/Montserrat-ExtraBold.ttf') format('truetype');
 			
 			font-weight: normal;
 			
@@ -78,7 +78,7 @@ Theme Name: School38Rddm
 	@font-face {
 			font-family: 'Montserrat';
 			
-			src: url('fonts/Montserrat-ExtraBoldItalic.ttf') format('truetype');
+			src: url('assets/fonts/Montserrat-ExtraBoldItalic.ttf') format('truetype');
 			
 			font-weight: bold;
 			
@@ -89,7 +89,7 @@ Theme Name: School38Rddm
 		
 		font-family: 'Montserrat';
 		
-		src: url('fonts/Montserrat-SemiBold.ttf') format('truetype');
+		src: url('assets/fonts/Montserrat-SemiBold.ttf') format('truetype');
 		
 		font-weight: bold;
 		
@@ -101,7 +101,7 @@ Theme Name: School38Rddm
 		
 		font-family: 'Montserrat';
 		
-		src: url('fonts/Montserrat-SemiBoldItalic.ttf') format('truetype');
+		src: url('assets/fonts/Montserrat-SemiBoldItalic.ttf') format('truetype');
 		
 		font-weight: bold;
 		
@@ -113,7 +113,7 @@ Theme Name: School38Rddm
 		
 		font-family: 'Montserrat';
 	
-		src: url('fonts/Montserrat-Medium.ttf') format('truetype');
+		src: url('assets/fonts/Montserrat-Medium.ttf') format('truetype');
 		
 		font-weight: normal;	
 		
@@ -123,7 +123,7 @@ Theme Name: School38Rddm
 		
 			font-family: 'Montserrat';
 		
-			src: url('fonts/Montserrat-MediumItalic.ttf') format('truetype');
+			src: url('assets/fonts/Montserrat-MediumItalic.ttf') format('truetype');
 			
 			font-weight: normal;	
 			
@@ -134,7 +134,7 @@ Theme Name: School38Rddm
 
 		font-family: 'Montserrat';
 	
-		src: url('fonts/Montserrat-Thin.ttf') format('truetype');
+		src: url('assets/fonts/Montserrat-Thin.ttf') format('truetype');
 		
 		font-weight: normal;	
 		
@@ -144,7 +144,7 @@ Theme Name: School38Rddm
 				
 		font-family: 'Montserrat';
 	
-		src: url('fonts/Montserrat-ThinItalic.ttf') format('truetype');
+		src: url('assets/fonts/Montserrat-ThinItalic.ttf') format('truetype');
 		
 		font-weight: normal;	
 		
@@ -154,7 +154,7 @@ Theme Name: School38Rddm
 
 		font-family: 'Montserrat';
 	
-		src: url('fonts/Montserrat-LightItalic.ttf') format('truetype');
+		src: url('assets/fonts/Montserrat-LightItalic.ttf') format('truetype');
 		
 		font-weight: lighter;	
 		
@@ -164,12 +164,12 @@ Theme Name: School38Rddm
 		
 			font-family: 'Montserrat';
 		
-			src: url('fonts/Montserrat-Light.ttf') format('truetype');
+			src: url('assets/fonts/Montserrat-Light.ttf') format('truetype');
 			
 			font-weight:lighter;	
 			
 			font-style:normal;
-			}
+			} */
 
 /* Базовые стили для сайта */
 	

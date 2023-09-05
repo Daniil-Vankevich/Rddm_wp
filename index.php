@@ -1,4 +1,8 @@
-<?php get_header(); ?>
+<?php get_header();
+
+/* Template Name: О движении*/
+
+?>
 
 <main class="main">
 	<!-- School Move -->
