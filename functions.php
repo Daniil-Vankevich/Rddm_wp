@@ -45,3 +45,28 @@ function add_menu()
 	register_nav_menu('top', 'Главное меню сайта');
 	register_nav_menu('bottom', 'Нижнее меню сайта');
 }
+
+
+// подключение тега li к wp_nav_menu
+function add_additional_class_on_li($classes, $item, $args)
+{
+	if (isset($args->li_class)) {
+		$classes[] = $args->li_class;
+	}
+	return $classes;
+}
+add_filter('nav_menu_css_class', 'add_additional_class_on_li', 1, 3);
+
+// подключение тега a к wp_nav_menu
+function add_additional_class_on_a($classes, $item, $args)
+{
+	if (isset($args->a_class)) {
+		$classes[] = $args->a_class;
+	}
+	return $classes;
+}
+add_filter('nav_menu_css_class', 'add_additional_class_on_a', 1, 3);
+
+
+
+// класс волкер для меню

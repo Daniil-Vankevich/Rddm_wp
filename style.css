@@ -326,7 +326,7 @@ body {
 	margin-top: 10px;
 }
 
-.menu__item:hover .subMenu{
+/* .menu__item:hover .subMenu{
 	display: block;
 }
 
@@ -340,20 +340,20 @@ body {
 		width: 160px;
 		background-color:  #df943df0;
 		box-shadow: 1px -1px 3px 0px rgb(143, 143, 143);
-	}
+	} */
 
-		.menu__item-subMenu {
+		/* .menu__item-subMenu {
 			padding: 10px;
 			cursor: pointer;
-		}
+		} */
 
-		.menu__item-subMenu:hover {
+		/* .menu__item-subMenu:hover {
 			background-color: rgb(18, 110, 249);
 		}
 
 		.menu__link-sub {
 			color: white;
-		}
+		} */
 
 		.menu__btn {
 			width: 55px;

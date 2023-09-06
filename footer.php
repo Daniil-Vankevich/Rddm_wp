@@ -12,7 +12,21 @@
 						<div class="footer__description footer__description-first">Муниципальное бюджетное общеобразовательное учреждение"Средняя общеобразовательная школа №38г. Шахты Ростовской области"</div>
 					</li>
 					<li class="footer-info__item">
-						<h3 class="footer-title"><a class="footer-title-link" href="./answerQuestion.html">Вопрос-ответ</a></h3>
+						<h3 class="footer-title">
+							<?php
+							wp_nav_menu([
+								'theme_location' => 'bottom',
+								'menu' => '',
+								'container' => '',
+								'container_class' => '',
+								'menu_class' => '',
+								'menu_id' => '',
+								'li_class'  => '',
+								'items_wrap' => '%3$s',
+							]);
+							?>
+							<!-- <a class="footer-title-link" href="./answerQuestion.php">Вопрос-ответ</a> -->
+						</h3>
 						<div class="footer__description">На этой странице можно найти ответы на вопросы о «Движении первых». Выберите интересующую вас тему.</div>
 					</li>
 					<li class="footer-info__item">

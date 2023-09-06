@@ -44,23 +44,24 @@
 					<div class="logo">
 						<a href=" <?php echo home_url(); ?>"> <?php the_custom_logo(); ?> </a>
 					</div>
-					<nav class="header__nav">
-						<ul class="menu">
-							<li class="menu__item"><a class="menu__link menu__link-active" href="#"> &#8942; О движении</a>
-								<ul class="subMenu">
-									<li class="menu__item-subMenu"><a class="menu__link-sub" href="./documents.html">Документы</a></li>
-									<li class="menu__item-subMenu"><a class="menu__link-sub" href="./contacts.html">Контакты</a></li>
-									<li class="menu__item-subMenu"><a class="menu__link-sub" href="./answerQuestion.html">Вопрос-ответ</a></li>
-									<li class="menu__item-subMenu"><a class="menu__link-sub" href="./сhronology.html">Хронология</a></li>
-									<li class="menu__item-subMenu"><a class="menu__link-sub" href="./mission.html">Миссия и ценности</a></li>
-								</ul>
-							</li>
-							<li class="menu__item"><a class="menu__link" href="./template/direction-page.html">Направления</a></li>
-							<li class="menu__item"><a class="menu__link" href="./template/news-page.html">Новости</a></li>
-							<li class="menu__item"><a class="menu__link" href="./template/galary.html">Галерея</a></li>
-							<li class="menu__item"><a class="menu__link" href="./template/projects-active.html">Проектные активности</a></li>
-						</ul>
-					</nav>
+
+					<?php
+					// include('submenu.php');
+					// $menu =  wp_nav_menu(array('menu' => '', 'menu_class' => 'subMenu', 'walker' => new subMenu));
+
+					wp_nav_menu([
+
+						'theme_location' => 'top',
+						'menu' => '',
+						'container' => 'nav',
+						'container_class' => 'header__nav',
+						'menu_class' => 'menu',
+						'menu_id' => '',
+						'li_class'  => 'menu__item ',
+						'a_class' => 'menu__link',
+					]);
+					?>
+
 					<div class="menu__btn">
 						<img src="./img/menu-burger-new.png" alt="burger menu">
 					</div>
