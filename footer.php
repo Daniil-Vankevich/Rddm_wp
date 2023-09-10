@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="footer__content">
 			<div class="footer-logo">
-				<img src="./img/logo/Logo38.png" alt="logo_school38">
+				<a href=" <?php echo home_url(); ?>"> <img src="<?php bloginfo('template_url'); ?> /assets/img/logo/logo38.png" alt="logo_school38"> </a>
 			</div>
 			<nav class="footer__nav">
 				<ul class="footer-info">
@@ -37,9 +37,9 @@
 				</ul>
 			</nav>
 			<div class="footer__icon">
-				<a class="footer-link-vk" href="https://vk.com/school38info" target="_blank"><img src="./img/footer/footer new vk.png" alt=""></a>
-				<a class="footer-link-site_school" href="http://school38.info/" target="_blank"><img src="./img/footer/link-schoolnew.png" alt=""></a>
-				<a class="footer-link-rddm" href="https://будьвдвижении.рф/" target="_blank"><img src="./img/footer/rddm new.png" alt=""></a>
+				<a class="footer-link-vk" href="https://vk.com/school38info" target="_blank"><img src="<?php bloginfo('template_url'); ?> /assets/img/footer/footer new vk.png" alt="Ссылка на группу в vk"></a>
+				<a class="footer-link-site_school" href="http://school38.info/" target="_blank"><img src="<?php bloginfo('template_url'); ?> /assets/img/footer/link-schoolnew.png" alt=""></a>
+				<a class="footer-link-rddm" href="https://будьвдвижении.рф/" target="_blank"><img src="<?php bloginfo('template_url'); ?> /assets/img/footer/rddm new.png" alt=""></a>
 			</div>
 		</div>
 	</div>

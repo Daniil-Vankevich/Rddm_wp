@@ -33,12 +33,13 @@
 	wp_head();
 	?>
 
+
 </head>
 
 <body>
 	<div class="wrapper">
 		<!-- HEADER BLOCK -->
-		<header class="header">
+		<header class="header" <?php if (is_admin_bar_showing()) { ?> style="padding-top: 50px" <?php } ?>>
 			<div class="container">
 				<div class="header__content">
 					<div class="logo">
@@ -63,7 +64,7 @@
 					?>
 
 					<div class="menu__btn">
-						<img src="./img/menu-burger-new.png" alt="burger menu">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/menu-burger-new.png" alt=" burger menu">
 					</div>
 				</div>
 			</div>

@@ -14,7 +14,7 @@
 					<div class="answer__description">
 						Здравствуй, дорогой посетитель нашего сайта! На данной странице вы сможете найти ответы на часто задаваемые вопросы о «Движении первых» и о активностях, в которых участвует наша школа.
 					</div>
-					<details class="answer__detail">
+					<details class="answer__detail" style="background-image: url(<?php echo CFS()->get('bg_accordion1'); ?>);  background-repeat: no-repeat; background-position: 100%; background-position-y: top; transition: all linear 0.4s">
 						<summary class="answer__question">Кто такие участники-учащиеся?
 						</summary>
 						<!-- <hr style="color:aquamarine; max-width: 1200px; height: 2px;"> -->
@@ -22,7 +22,7 @@
 							Участники-учащиеся – это несовершеннолетние лица, которые учатся по образовательным программам начального общего, основного общего, среднего общего, среднего профессионального образования, и иные несовершеннолетние лица.
 						</div>
 					</details>
-					<details class="answer__detail">
+					<details class="answer__detail" style="background-image: url(<?php echo CFS()->get('bg_accordion1'); ?>);  background-repeat: no-repeat; background-position: 100%; background-position-y: top;">
 						<summary class="answer__question">Кто может стать участником?
 						</summary>
 						<!-- <hr style="color:aquamarine; max-width: 1200px; height: 2px;"> -->
@@ -42,7 +42,7 @@
 							(Будьте внимательны – предложены заявления для лиц разных возрастов). Контакты Региональных отделений Движения.
 						</div>
 					</details>
-					<details class="answer__detail">
+					<details class="answer__detail" style="background-image: url(<?php echo CFS()->get('bg_accordion1'); ?>);  background-repeat: no-repeat; background-position: 100%; background-position-y: top;">
 						<summary class="answer__question"> Как стать участником движения?
 						</summary>
 						<!-- <hr style="color:aquamarine; max-width: 1200px; height: 2px;"> -->
@@ -54,7 +54,7 @@
 							Подать заявление на вступление в Движение можно в своем личном кабинете, используя электронную подпись или выбрав личную подачу распечатанного и подписанного заявления.
 						</div>
 					</details>
-					<details class="answer__detail">
+					<details class="answer__detail" style="background-image: url(<?php echo CFS()->get('bg_accordion1'); ?>);  background-repeat: no-repeat; background-position: 100%; background-position-y: top;">
 						<summary class="answer__question">Как стать участником коллектива?
 						</summary>
 						<!-- <hr style="color:aquamarine; max-width: 1200px; height: 2px;"> -->
@@ -68,7 +68,7 @@
 							</ul>
 						</div>
 					</details>
-					<details class="answer__detail">
+					<details class="answer__detail" style="background-image: url(<?php echo CFS()->get('bg_accordion1'); ?>);  background-repeat: no-repeat; background-position: 100%; background-position-y: top;">
 						<summary class="answer__question">Как ведется учет участников движения?
 						</summary>
 						<!-- <hr style="color:aquamarine; max-width: 1200px; height: 2px;"> -->
