@@ -9,40 +9,31 @@
 	<section class="сhronology">
 		<div class="container">
 			<div class="сhronology-content">
-				<div class="сhronology__item">
-					<h1 class="сhronology__item-title">МЫ В ДВИЖЕНИИ!</h1>
-					<div class="news-page__item-img">
-						<img src="./img/сhronology/1.png" alt="">
+				<?php
+				$posts = get_posts([
+					'numberposts' => -1,
+					'categoryname' => 'chronology_posts',
+					'orderby' => 'date',
+					'order' => 'DESC',
+					'post_type' => 'post',
+					'suppress_filter' => true,
+				]);
+				foreach ($posts as $post) {
+					setup_postdata($post);
+				?>
+					<div class="сhronology__item">
+						<h1 class="сhronology__item-title"> <?php the_title() ?></h1>
+						<div class="news-page__item-img">
+							<?php the_post_thumbnail('img_thumbnail1') ?>
+						</div>
+						<div class="сhronology__description">
+							<?php the_content() ?>
+						</div>
 					</div>
-					<div class="сhronology__description">
-						20.02.23 в нашей школе состоялась торжественное открытие первичного отделения Российского движения детей и молодежи «Движение первых»!Поздравить ребят с таким радостным и важным событием приехали:
-						<ul>
-							<li>- Депутат городской Думы города Шахты Горцевской Аркадий Андреевич </li>
-							<li>- Муниципальный координатор проекта "Навигаторы детства" Агалакова Ирина Владимировна</li>
-						</ul>
-						Они обратились к ребятам с добрыми напутственными пожеланиями, рассказали о преемственности поколений в детских общественных организациях.
-						Ирина Владимировна вручила ребятам приветственный адрес от заместителя Главы Администрации г.Шахты Тхак Ольги Владимировны. Впереди наше Первичное отделение ждет много интересных встреч, мероприятий и свершений!
-						Лучше слов напутствия для всех нас, чем миссия РДДМ, не найти:
-						<ul>
-							<li>! Быть с Россией,</li>
-							<li>! Быть человеком, </li>
-							<li>! Быть вместе,</li>
-							<li>! Быть в Движении,</li>
-							<li>! Быть Первыми!</li>
-						</ul>
-					</div>
-				</div>
-				<!-- <div class="news-page__item">
-							<h1 class="news-page__item-title">Участие в молодежной акции "Моя альтернатива"</h1>
-							<div class="news-page__item-img">
-								<img src="./img/news-page/1.png" alt="">
-							</div>
-							<div class="news-page__description">
-								23 мая члены школьного отделения РДДМ приняли участие в молодежной акции "Моя альтернатива". Ребята участвовали в интереснейших мастер-классах, посетили интерактивные площадки, помогающие определиться с профессией, прошли веревочный трек и даже поиграли в гигантскую дженгу!. Было круто, весело и полезно!
-							</div>
-							<div class="description__news-page">
-							</div>
-						</div> -->
+				<?php
+				}
+				wp_reset_postdata();
+				?>
 			</div>
 		</div>
 	</section>
