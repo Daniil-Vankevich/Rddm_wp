@@ -9,17 +9,33 @@
 	<section class="projects-active">
 		<div class="container">
 			<div class="projects-active-content">
-				<div class="projects-active__item">
-					<h1 id="active1" class="projects-active__item-title">Летний оздоровительный лагерь «Дружба»</h1>
-					<div class="projects-active__item-img">
-						<img src="../img/projects-active/1.png" alt="">
+				<?php
+				$posts = get_posts([
+					'numberposts' => -1,
+					'category_name' => 'project-active_page',
+					'orderby' => 'date',
+					'order' => 'DESC',
+					'post_type' => 'post',
+					'suppress_filters' => true,
+				]);
+				foreach ($posts as $post) {
+					setup_postdata($post);
+				?>
+					<div class="projects-active__item">
+						<h1 id="active1" class="projects-active__item-title"> <?php the_title() ?></h1>
+						<div class="projects-active__item-img">
+							<?php the_post_thumbnail('img_thumbnail1') ?>
+						</div>
+						<div class="projects-active__description">
+							<?php the_content() ?>
+						</div>
+						<div class="description__projects-active">
+						</div>
 					</div>
-					<div class="projects-active__description">
-						28 июня завершил свою работу летний оздоровительный лагерь «Дружба» ШКОЛЫ №38 ГОРОДА ШАХТЫ ! За время лагеря ребята набрались ярких эмоций, подружились, загорели, подросли, закрепил много полезных навыков и научились новым, плавали, смеялись и очень хорошо провели время! Расставаться не хотелось! Но у ребят впереди два месяца лета, которые они проведут безопасно и полезно! Встретимся 1 сентября!
-					</div>
-					<div class="description__projects-active">
-					</div>
-				</div>
+				<?php
+				}
+				wp_reset_postdata();
+				?>
 			</div>
 		</div>
 	</section>

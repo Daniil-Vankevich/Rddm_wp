@@ -12,11 +12,11 @@
 				<?php
 				$posts = get_posts([
 					'numberposts' => -1,
-					'categoryname' => 'chronology_posts',
+					'category_name' => 'chronology_page',
 					'orderby' => 'date',
 					'order' => 'DESC',
 					'post_type' => 'post',
-					'suppress_filter' => true,
+					'suppress_filters' => true,
 				]);
 				foreach ($posts as $post) {
 					setup_postdata($post);
