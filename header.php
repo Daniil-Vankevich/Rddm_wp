@@ -39,7 +39,7 @@
 <body>
 	<div class="wrapper">
 		<!-- HEADER BLOCK -->
-		<header class="header" <?php if (is_admin_bar_showing()) { ?> style="padding-top: 50px" <?php } ?>>
+		<header class="header" <?php if (is_admin_bar_showing()) { ?> style="padding-top: 45px" <?php } ?>>
 			<div class="container">
 				<div class="header__content">
 					<div class="logo">

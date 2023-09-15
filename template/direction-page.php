@@ -13,7 +13,7 @@
 					<h1 class="direction-page__item-main-title">Направления движения</h1>
 					<h1 class="direction-page__item-title">Образование и знания. «УЧИСЬ И ПОЗНАВАЙ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/1.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/1.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Время за гаджетами начнет приносить пользу.Мы познакомим участников с принципами создания видеоигр и других цифровых продуктов, расскажем, как работать с большими данными, создавать ботов, обучать нейросети, программировать беспилотники и моделировать полеты дронов.Для самых активных и результативных предусмотрены тематические смены, уникальные курсы наставничества по разработке цифровых продуктов и стажировка в одной из крупнейших отечественных IT-компаний.
@@ -22,7 +22,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Наука и технологии. «ДЕРЗАЙ И ОТКРЫВАЙ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/2.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/2.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Мир науки удивительный и захватывающий. Он выходит далеко за пределы школьной программы. «Движение Первых» поможет прикоснуться к науке и полюбить ее всем: от «начинающих» до уже «практикующих» ученых.
@@ -34,7 +34,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Труд, профессия и своё дело. «НАЙДИ ПРИЗВАНИЕ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/3.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/3.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Труд сопровождает нас на протяжении всей жизни, наши достижения и успехи – это все результаты труда. «Движение Первых» обеспечит участникам массу возможностей для учебы, развития и строительства своей профессиональной траектории, а также сформирует реестр вакансий для твоего первого трудоустройства.
@@ -45,7 +45,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Культура и искусство. «СОЗДАВАЙ И ВДОХНОВЛЯЙ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/4.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/4.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Для тех, кто мечтает о большой сцене или об участии в ТВ-шоу – наше направление «Создавай и вдохновляй». В рамках трека у участников будет возможность изучить основы музыкального мастерства, создать собственную песню, принять участие в авторском мюзикле, стать авторов сценариев, постановок и познакомиться с классическими и новыми формами театрального искусства.
@@ -55,7 +55,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Волонтёрство и добровольчество. «БЛАГО ТВОРИ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/5.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/5.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Знаете, что объединяет все направления работы в Движении? Наш трек «Благо твори». Ведь те или иные волонтерские активности есть в рамках каждого из направлений.
@@ -67,7 +67,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Патриотизм и историческая память. «СЛУЖИ ОТЕЧЕСТВУ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/6.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/6.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						«Патриотизм и историческая память» – одно из важнейших направлений работы в Движении. Любить свою Родину, беречь историческую память и защищать Отечество – главные принципы нашего направления.
@@ -79,7 +79,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Спорт. «ДОСТИГАЙ И ПОБЕЖДАЙ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/7.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/7.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Для тех, кто любит постоянно быть в Движении, стремится быть сильным, смелым, побеждать в российских и международных соревнованиях – наш трек «Достигай и побеждай».
@@ -90,7 +90,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Здоровый образ жизни. «БУДЬ ЗДОРОВ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/2.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/8.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Каждый мечтает быть энергичным, сильным, здоровым и дожить до ста лет. В нашем направлении «Будь здоров» у участников появится возможность открыть секреты правильного питания и эффективного сна, организовать настоящий фитнес-клуб в школе и поближе познакомиться с понятием «цифровая гигиена».
@@ -101,7 +101,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Медиа и коммуникации. «РАССКАЖИ О ГЛАВНОМ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/3.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/3.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Мы живем в динамичном информационном мире, где профессия журналиста и коммуникатора как никогда востребована. В нашем направлении «Расскажи о главном» у участников появится возможность вместе с командой освещать события Движения на разных уровнях, предлагать идеи для социальных сетей, СМИ и онлайн-шоу.
@@ -112,7 +112,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Дипломатия и международные отношения «Умей дружить!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/4.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/4.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						У каждого из нас есть своё понимание о том, что такое дружба .Настоящий друг — это большое богатство! Он верный, преданный, на него всегда можно положиться. Настоящий друг — это родной тебе человек, он всегда окажет тебе помощь и не будет ждать ничего взамен.Очень важно ценить дружбу и уважать интересы друг друга. Умение коммуницировать и общаться с самыми разными людьми — важные навыки любого человека.
@@ -121,7 +121,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Экология и охрана природы. «БЕРЕГИ ПЛАНЕТУ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/5.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/5.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Всем важно, как выглядит мир вокруг нас. И в направлении «Береги планету» каждый участник Движения сможет на это повлиять.
@@ -133,7 +133,7 @@
 				<div class="direction-page__item">
 					<h1 class="direction-page__item-title">Туризм и путешествия. «ОТКРЫВАЙ СТРАНУ!»</h1>
 					<div class="direction-page__item-img">
-						<img src="../img/direction-page/8.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?> /assets/img/direction-page/6.png" alt="">
 					</div>
 					<div class="direction-page__description">
 						Настало время приключений, путешествий и походов!
