@@ -32,6 +32,7 @@ function add_logo()
 		'header-text' => '',
 	]);
 	add_image_size('img_thumbnail1', 880, 580, true);
+	add_image_size('img_thumbnail2', 245, 370, true);
 }
 
 
