@@ -12,7 +12,7 @@ add_action('wp_enqueue_scripts', 'true_include_myscript');
 // подключение скрипта бургер меню
 function true_include_myscript()
 {
-	wp_enqueue_script('themename', get_stylesheet_directory_uri() . './assets/js/index.js', array(), null, true);
+	wp_enqueue_script('themename', get_stylesheet_directory_uri() . '/assets/js/index.js', array(), null, true);
 }
 
 

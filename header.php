@@ -64,7 +64,7 @@
 					?>
 
 					<div class="menu__btn">
-						<img src="<?php bloginfo('template_url'); ?> /assets/img/menu-burger-new.png" alt=" burger menu">
+						<img src="<?php bloginfo('template_url'); ?>/assets/img/menu-burger-new.png" alt=" burger menu">
 					</div>
 				</div>
 			</div>

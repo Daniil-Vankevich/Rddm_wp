@@ -12,7 +12,7 @@
 				<div class="mission__item">
 					<h1 class="mission__item-title">Миссия Движения</h1>
 					<div class="mission__item-img">
-						<img src="<?php bloginfo('template_url'); ?> /assets/img/mission/1.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?>/assets/img/mission/1.png" alt="">
 					</div>
 					<div class="mission__description">
 						Мы объединились в движение, чтобы обеспечить России великое будущее, чтобы сделать достойной и счастливой жизнь всех поколений, чтобы менять мир к лучшему!
@@ -27,7 +27,7 @@
 				<div class="mission__item">
 					<h1 class="mission__item-title">Наши ценности</h1>
 					<div class="mission__item-img">
-						<img src="<?php bloginfo('template_url'); ?> /assets/img/mission/2.png" alt="">
+						<img src="<?php bloginfo('template_url'); ?>/assets/img/mission/2.png" alt="">
 					</div>
 				</div>
 				<div class="mission__item">

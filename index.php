@@ -12,10 +12,10 @@
 			<h1 class="move-title-2">в движении первых</h1>
 			<div class="move__content">
 				<div class=" move__item move__first-photo">
-					<img src="<?php bloginfo('template_url'); ?> /assets/img/move_photo_firstPage/be move.jpg" alt="about move our school">
+					<img src="<?php bloginfo('template_url'); ?>/assets/img/move_photo_firstPage/be move.jpg" alt="about move our school">
 				</div>
 				<div class=" move__item move__second-photo">
-					<img src="<?php bloginfo('template_url'); ?> /assets/img/move_photo_firstPage/letter.jpg" alt="about move our school">
+					<img src="<?php bloginfo('template_url'); ?>/assets/img/move_photo_firstPage/letter.jpg" alt="about move our school">
 				</div>
 			</div>
 		</div>
