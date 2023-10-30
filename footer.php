@@ -46,7 +46,7 @@
 </footer>
 <!-- END block footer -->
 </div>
-<script src="./js/index.js"></script>
+<!-- <script src="./js/index.js"></script> -->
 
 <?php
 wp_footer();
