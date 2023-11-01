@@ -17,6 +17,7 @@
 						<p class="contacts__mail">Официальная почта организации: school38@shakhty-edu.ru</p>
 						<p class="contacts__site"><a class="contacts__site-link" target="_blank" href="http://school38.info/"> Официальный сайт организации: http://school38.info/</a></p>
 						<p class="contacts__mode-work">Режим работы организации: пн.–пт. | 8:30–16:00</p>
+						<p class="contacts__mobile">Председатель РДДМ МБОУ СОШ №38: +79381080402 - Мовчан Екатерина Вячеславовна</p>
 					</div>
 					<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A3062ae6bbf47b875fd370ed53a306d2cbe1495f8716aed8276038bc0656f8d49&amp;width=100%&amp;height=427&amp;lang=ru_RU&amp;scroll=true"></script>
 				</div>

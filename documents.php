@@ -11,66 +11,66 @@
 			<div class="documents-content">
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 				<div class="documents__item">
 					<div class="documents__img">
-						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
+						<a class="documents__img-link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg"><img src="<?php bloginfo('template_url'); ?>/assets/img/documents/1.png" alt="photo icon document"></a>
 					</div>
 					<div class="documents__description">
-						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/ciW1YHlKpLHYbw">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
+						<a class="documents__link" target="_blank" href="https://disk.yandex.ru/i/mQCVzEKNplRGbg">УСТАВ Общероссийского общественно-государственного движения детей и молодежи «Движение первых»</a>
 					</div>
 				</div>
 			</div>

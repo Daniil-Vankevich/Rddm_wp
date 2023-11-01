@@ -1145,6 +1145,12 @@ text-align: center;
 	padding-bottom: 25px;
 }
 
+.contacts__mobile {
+	max-width: 370px;
+	padding-bottom: 25px;
+
+}
+
 /* END Block contacts */
 
 /* Block answer */
@@ -1309,6 +1315,10 @@ padding-bottom: 50px;
 
 .documents__img img {
 
+}
+
+.documents__link {
+	color: #000;
 }
 
 .documents__link:visited {
