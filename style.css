@@ -1263,6 +1263,15 @@ line-height: 142.5%; /* 22.8px
 letter-spacing: 0.64px; */
 }
 
+.answer__text a {
+	color: #FDFDFD;
+}
+
+.answer__text a:visited {
+	color: #FDFDFD;
+}
+
+
 /*END  Block answer */
 
 /* Block documents */
