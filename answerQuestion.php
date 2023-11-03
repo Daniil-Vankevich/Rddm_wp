@@ -71,7 +71,7 @@
 						</div>
 					</details>
 					<details class="answer__detail" style="background-image: url(<?php echo CFS()->get('bg_accordion1'); ?>);  background-repeat: no-repeat; background-position: 100%; background-position-y: top;">
-						<summary class="answer__question">кто такие родители первых?
+						<summary class="answer__question">Кто такие родители первых?
 						</summary>
 						<!-- <hr style="color:aquamarine; max-width: 1200px; height: 2px;"> -->
 						<div class="answer__text">
@@ -93,7 +93,7 @@
 						</summary>
 						<!-- <hr style="color:aquamarine; max-width: 1200px; height: 2px;"> -->
 						<div class="answer__text">
-							Если у вас остались вопросы касательно "Движения первых", то вы можете задать их на официальном сайте движения в предназначенном для этого разделе: <a href="https://будьвдвижении.рф/contacts">https://будьвдвижении.рф/contacts</a>
+							Если у вас остались вопросы касательно "Движения первых", то вы можете задать их на официальном сайте движения в предназначенном для этого разделе: <a target="_blank" href="https://будьвдвижении.рф/contacts">https://будьвдвижении.рф/contacts</a>
 						</div>
 					</details>
 				</div>
