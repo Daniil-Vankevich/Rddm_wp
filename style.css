@@ -1119,6 +1119,13 @@ text-align: center;
 	padding-bottom: 25px;
 	max-width: 450px;
 }
+
+.contacts__mail-adress {
+	padding-bottom: 25px;
+	max-width: 450px;
+	text-transform: lowercase;
+}
+
 .contacts__site {
 	padding-bottom: 25px;
 	max-width: 450px;
